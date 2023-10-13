@@ -23,9 +23,9 @@ I'm a self-taught coder with a passion for creating small, innovative projects t
 
 <img src="https://cdn.discordapp.com/attachments/1084597909212909688/1088138489356353597/spacehelper_robot.png" width="24"> **Space Helper** - My flagship project is a Discord bot designed for Star Citizen enthusiasts. It utilizes various APIs to provide real-time game data and offers an array of moderation commands. I've poured my heart and soul into this bot, and I want you to know it's currently under heavy development. Stay tuned, as it will be back up and running soon!
 
-🌱 **Current Adventures** - I'm currently diving into the world of TypeScript, crafting exciting projects with Next.js. I relish taking on challenges that push my abilities to the limit and exploring new coding languages and libraries.
+🌱 **Current Adventures** - I'm currently diving into the world of TypeScript, crafting exciting projects with Next.js. I enjoy taking on challenges that push my abilities to the limit and exploring new coding languages and libraries.
 
-🌐 **Portfolio** - I'm in the process of building my portfolio, which will showcase my coding journey and projects. Stay tuned for its launch!
+🌐 **Portfolio** - I'm in the process of rewriting my portfolio, which will showcase my coding journey and projects. Stay tuned for its launch!
 
 🌌 **Space Helper Website** - For more about Space Helper, visit the [Space Helper Website](https://spacehelper.xyz). It's undergoing a complete overhaul and rewrite, so expect some exciting updates.
 
@@ -53,20 +53,4 @@ I'm a self-taught coder with a passion for creating small, innovative projects t
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/yourprofile/)
 
--->
-
-
-<!--
-**Osnarr/Osnarr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
