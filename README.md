@@ -1,4 +1,4 @@
-![Banner](https://cdn.discordapp.com/attachments/1059563842276954192/1081980005984247848/background_cleared.png)
+
 
 <table>
   <tr>
