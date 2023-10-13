@@ -33,16 +33,19 @@ I'm a self-taught coder with a passion for creating small, innovative projects t
 
 🚀 **Technologies & Tools**:
 
-<div style="display: flex;">
+<div style="display: flex; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript" style="margin: 5px;">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=ffffff" alt="TypeScript" style="margin: 5px;">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff" alt="HTML" style="margin: 5px;">
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=ffffff" alt "CSS" style="margin: 5px;">
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=ffffff" alt="CSS" style="margin: 5px;">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=ffffff" alt="Next.js" style="margin: 5px;">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000000" alt="React" style="margin: 5px;">
   <img src="https://img.shields.io/badge/Next.js%20UI-000000?style=for-the-badge" alt="Next.js UI" style="margin: 5px;">
   <img src="https://img.shields.io/badge/Discord.js-7289DA?style=for-the-badge&logo=discord&logoColor=ffffff" alt="Discord.js" style="margin: 5px;">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=ffffff" alt="Node.js" style="margin: 5px;">
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=ffffff" alt="Tailwind CSS" style="margin: 5px;">
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff" alt="Visual Studio Code" style="margin: 5px;">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" style="margin: 5px;">
 </div>
 
 
