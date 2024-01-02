@@ -2,9 +2,7 @@
 
 <table>
   <tr>
-    <td align="center">
       <!--  -->
-    </td>
     <td align="center">
       <!--  -->
       <img src="https://github-readme-streak-stats.herokuapp.com?user=Osnarr&theme=dark" alt="Commit Streak" />
