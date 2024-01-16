@@ -22,7 +22,7 @@ I'm a self-taught coder with a passion for creating small, innovative projects t
 
 🌱 **Current Adventures** - I'm currently diving into the world of TypeScript, crafting exciting projects with Next.js. I enjoy taking on challenges that push my abilities to the limit and exploring new coding languages and libraries.
 
-🌐 **Portfolio** - I'm in the process of rewriting my portfolio, which will showcase my coding journey and projects. Stay tuned for its launch!
+🌐 **Portfolio** - <a href="https://oscarkaikko.com"> https://oscarkaikko.com </a>
 
 🌌 **Space Helper Website** - For more about Space Helper, visit the [Space Helper Website](https://spacehelper.xyz). It's undergoing a complete overhaul and rewrite, so expect some exciting updates.
 
