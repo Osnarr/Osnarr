@@ -41,7 +41,7 @@ I am a self-taught coder that enjoys working on small, creative projects that ch
   <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=ffffff" alt="Tailwind CSS" style="margin: 5px;">
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff" alt="Visual Studio Code" style="margin: 5px;">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" style="margin: 5px;">
-  <img src="  https://img.shields.io/badge/Csharp-181717?style=for-the-badge&logo=c#&logoColor=ffffff%22alt="GitHub" style="margin: 5px;">
+  <img src="https://img.shields.io/badge/Csharp-181717?style=for-the-badge&logo=c#&logoColor=ffffff%22" alt="GitHub" style="margin: 5px;">
 </div>
 
 
