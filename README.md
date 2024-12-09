@@ -13,20 +13,18 @@
 
 ### Hey there, I'm Oscar 👋
 
-I'm a self-taught coder with a passion for creating small, innovative projects that challenge my skills and expand my knowledge. My most significant undertaking to date is "Space Helper," a Discord bot that reflects my dedication to coding.
+I am a self-taught coder that enjoys working on small, creative projects that challenge and expand my knowledge. My most major project to date is "Space Helper," a Discord bot that shows my enthusiasm for coding.
 
 
  
 
-<img src="https://cdn.discordapp.com/attachments/1084597909212909688/1088138489356353597/spacehelper_robot.png" width="24"> **Space Helper** - My flagship project is a Discord bot designed for Star Citizen enthusiasts. It utilizes various APIs to provide real-time game data and offers an array of moderation commands. I've poured my heart and soul into this bot, and I want you to know it's currently under heavy development. Stay tuned, as it will be back up and running soon!
+<img src="https://cdn.discordapp.com/attachments/1084597909212909688/1088138489356353597/spacehelper_robot.png" width="24"> **Space Helper** - My flagship project is a Discord bot designed for Star Citizen My flagship project is a Discord bot created for Star Citizen fans. It uses different APIs to deliver real-time game data and includes a variety of moderating commands; it is currently under heavy development. 
 
-🌱 **Current Adventures** - I'm currently diving into the world of TypeScript, crafting exciting projects with Next.js. I enjoy taking on challenges that push my abilities to the limit and exploring new coding languages and libraries.
+🌱 **Current Adventures** - I am now exploring the boundaries of C#. I appreciate taking on projects that stretch my talents and learning new coding languages and libraries.
 
 🌐 **Portfolio** - <a href="https://oscarkaikko.com"> https://oscarkaikko.com </a>
 
-🌌 **Space Helper Website** - For more about Space Helper, visit the [Space Helper Website](https://spacehelper.xyz). It's undergoing a complete overhaul and rewrite, so expect some exciting updates.
-
-📖 **Documentation** - Explore the [Space Helper Documentation](https://docs.spacehelper.xyz) to learn more about the bot's features and functionality.
+🌌 **Space Helper Website** - To learn more about Space Helper, go to [Space Helper Website](https://spacehelper.xyz). It is getting a complete update, and the dashboard will be ready for testing in the next couple of months.
 
 🚀 **Technologies & Tools**:
 
@@ -43,11 +41,11 @@ I'm a self-taught coder with a passion for creating small, innovative projects t
   <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=ffffff" alt="Tailwind CSS" style="margin: 5px;">
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff" alt="Visual Studio Code" style="margin: 5px;">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" style="margin: 5px;">
+  <img src="  https://img.shields.io/badge/Csharp-181717?style=for-the-badge&logo=c#&logoColor=ffffff%22alt="GitHub" style="margin: 5px;">
 </div>
 
 
- <!--  #### Connect with Me:
+ Connect with Me:
+ 🔗 [LinkedIn](https://www.linkedin.com/in/oscar-kaikko/)
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/yourprofile/)
 
--->
